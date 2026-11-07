@@ -1,0 +1,20 @@
+{
+  "name": "ts-mobx-reactive",
+  "version": "1.0.0",
+  "description": "MobX-like reactive observable with computed and autorun",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx tsx main.ts"
+  },
+  "keywords": ["typescript", "mobx", "reactive", "observable", "state-management"],
+  "author": "Mahmoud ElNemer <sultanelnemer@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ElNeMeR70/ts-mobx-reactive.git"
+  },
+  "devDependencies": {
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}
